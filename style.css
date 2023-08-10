@@ -32,6 +32,11 @@ body{
 .arrow{
     margin-left: 200px;
 }
+.msg-img{
+    border-radius: 100px;
+    width: 80px;
+    height: 80px;
+}
 .contac-para{
     font-size: 12px;
 }
@@ -62,6 +67,10 @@ body{
     .card-margintop{
         margin-top: 40px;
     }
+    .msg-head{
+        text-align: center;
+        margin-right: 40px;
+    }
     .row-padding{
         padding: 20px;
     }
@@ -73,7 +82,7 @@ body{
     margin-left: 0px;
    }
    .msg-box{
-    margin-top: 20px;
+    margin-top: 40px;
    }
    .footer-size{
     font-size: 8px;
